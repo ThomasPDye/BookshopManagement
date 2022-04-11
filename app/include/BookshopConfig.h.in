@@ -1,0 +1,2 @@
+#define BookshopManagement_VERSION_MAJOR @BookshopManagement_VERSION_MAJOR@
+#define BookshopManagement_VERSION_MINOR @BookshopManagement_VERSION_MINOR@
